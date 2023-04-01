@@ -18,4 +18,5 @@ Open the python file and enter a parent username and password
 
 ## How it Works
   Uses the selenium library to access the internet
+  
   Logs into the web page, and then first checks to see whether the checkbox has already been checked, if not then selenium will register a click, then checks if the click has been registered by the site. 
